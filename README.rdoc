@@ -1,0 +1,5 @@
+ShortURL shortens any URL you submit so you can have a shorter URL to share.
+
+Stores data in Postresql.
+
+Try it out at http://shorturl.herokuapp.com

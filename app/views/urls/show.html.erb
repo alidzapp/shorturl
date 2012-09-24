@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Your URL:</b>
+  <%= @url.shurl %>
+</p>
+
+<p>
+  <b>New URL:</b>
+  <%= link_to "#{root_url}#{@url.slug}", "#{root_url}#{@url.slug}" %>
+</p>
+
+
+<%= link_to 'Shorten another URL', root_path %>

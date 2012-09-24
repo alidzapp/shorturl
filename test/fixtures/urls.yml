@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  shurl: MyString
+  slug: MyString
+
+two:
+  shurl: MyString
+  slug: MyString
